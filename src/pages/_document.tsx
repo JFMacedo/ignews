@@ -5,7 +5,6 @@ export default class MyDocument extends Document {
     return(
       <Html lang="en">
         <Head>
-          <title>ig.news</title>
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
             href="https://fonts.googleapis.com/css2?family=Asap:wght@400;600;700&display=swap"
